@@ -1,2 +1,2 @@
-# Newtonscaddle
-See Newton's Craddle
+#Newton's Cradle
+Newton's Cradle
